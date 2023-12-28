@@ -1,0 +1,18 @@
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+---
+Index: firstFile.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/firstFile.txt b/firstFile.txt
+--- a/firstFile.txt	(revision 999407d26dd562b27fdd64a3ce048a63b3019eb8)
++++ b/firstFile.txt	(revision 29f830d921a3f22bed06b3cb563a34cad1b3635f)
+@@ -1,5 +1,5 @@
+-Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
++Changed 2 lines in firstFile.txt in git_1
++Changed 2 lines in firstFile.txt in git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
